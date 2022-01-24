@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
 This framework provide to format text with format like "## ##-###", where # - replaceble symbol. Support format all string or character by character input.
                        DESC
 
-  s.homepage         = 'https://github.com/luximetr/AnyFormatKitSwiftUI'
+  s.homepage         = 'https://github.com/clanizon/AnyFormatKitSwiftUI'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luximetr' => 'luximetr.notification@gmail.com' }
-  s.source           = { :git => 'https://github.com/luximetr/AnyFormatKitSwiftUI.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/clanizon/AnyFormatKitSwiftUI.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
